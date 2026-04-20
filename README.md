@@ -1,5 +1,4 @@
-# Customer Churn Analysis & Prediction 📊
-
+# Customer Churn Analysis & Prediction 
 Telecom Industry | Machine Learning | Python | Google Colab
 
 
